@@ -4,7 +4,7 @@ Repositório dedicado às atividades e exercícios desenvolvidos na disciplina d
 
 ## Informações
 
-- Aluno: Calebe Alves
+- Aluno: Calebe Alves Freitas
 - Semestre: 1º Semestre
 - Linguagem utilizada: Python 3
 
